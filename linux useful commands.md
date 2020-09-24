@@ -72,7 +72,7 @@ To copy files from the current directory to a different directory. `cp index.htm
 To move or rename files. `mv file.txt /home.`, `mv oldname.html newname.html`
 
 ### Update
-To update linux os packages. `sudo apt get update`
+To update linux os packages. `sudo apt update`
 
 ### apache2
 Web server. To install `sudo apt install apache2`
